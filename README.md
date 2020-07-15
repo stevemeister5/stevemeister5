@@ -1,6 +1,7 @@
 # Stephen Reuben---@stevemeister5
 Hi, Im Stephen, a junior software developer on the path to greatness. Just taking it one step at a time. I dabble in everything but my current obsession is Artificial Intelligence specifically NLP. Im a nerd whos into the arts, Love music, swimming and marathons.
 :tanzania: I am also a proud native of Tanzania
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 # Goals
 :nerd_face: To learn as much as possible.  
 :purple_heart: To solve problems affecting the community I live and love.  
